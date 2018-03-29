@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:CapstoneProject;assembly=CapstoneProject"
+    x:Class="CapstoneProject.MapPage">
+	<ContentPage.Content>
+     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>            
+        <local:CustomMap2 x:Name="customMap" MapType="Street" Grid.Row="0" />
+       
+
+        <StackLayout  HorizontalOptions="CenterAndExpand"  Grid.Row="1">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Label Text="Open SearchRedar: " />  
+                    <Switch x:Name="switch_open" IsToggled="false" Toggled="OpenLocation"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                   <Label x:Name="label_distance" Text="Distance: " IsVisible="false"/>    
+                   <Label x:Name="label" />
+                   <Label x:Name="label_Kilometers" Text="Kilometers" IsVisible="false"/>
+               </StackLayout>
+        </StackLayout>
+
+
+    </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

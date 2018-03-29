@@ -1,0 +1,26 @@
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=xamarin_timezone_get_data
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll

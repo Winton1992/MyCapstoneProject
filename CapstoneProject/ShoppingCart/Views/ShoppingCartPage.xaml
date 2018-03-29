@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.ShoppingCart.Views.ShoppingCartPage">
+    
+	 <StackLayout>
+       <SearchBar Placeholder="Search..." />
+
+       <ListView x:Name="shoppingcartListView" HasUnevenRows="true"  SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            
+                            <Image Source="{Binding ImageUrl}"/>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+
+                                <Label Text="{Binding ProductName}" />
+
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" >
+                                <Label Text="{Binding Price}" TextColor="Gray"/>
+                                <Label Text="in" TextColor="Gray"/>
+                                <Label Text="{Binding Retailer_Name}" TextColor="Gray"/>
+                                </StackLayout>
+                                
+                             </StackLayout>
+                              
+                             <Button Text="Remove"  Clicked="Remove_From_ShoppingCart" HorizontalOptions="EndAndExpand" CommandParameter="{Binding .}"/>
+                             
+                        </StackLayout>
+                        
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+              <StackLayout  HorizontalOptions="FillAndExpand" Orientation="Horizontal" Padding="2" >
+                     <StackLayout  HorizontalOptions="FillAndExpand" Orientation="Vertical" Padding="2" >
+                        <Label Text="Total Price In AUS: " HorizontalOptions="StartAndExpand"  /> 
+                        <Label Text="Total Price In RMB: " HorizontalOptions="StartAndExpand"  /> 
+                         <Label Text="Profit: " HorizontalOptions="StartAndExpand"  /> 
+                     </StackLayout>
+
+                      <StackLayout  HorizontalOptions="FillAndExpand" Orientation="Vertical" Padding="2" >
+                        <Label x:Name="TotalPriceInAUS"  HorizontalOptions="CenterAndExpand"  TextColor="Blue" /> 
+                        <Label x:Name="TotalPriceInRMB"  HorizontalOptions="CenterAndExpand"  TextColor="Blue" /> 
+                        <Label x:Name="Profit"  HorizontalOptions="CenterAndExpand"  TextColor="Blue" />
+                     </StackLayout>
+               </StackLayout>
+
+             <!-- <Button Text="Location" BackgroundColor="Silver" HorizontalOptions="FillAndExpand" Clicked="Location_Clicked" />-->
+              <Button Text="Finish" BackgroundColor="Silver" HorizontalOptions="FillAndExpand" Clicked="Finish_Clicked" />
+
+    </StackLayout>
+</ContentPage>

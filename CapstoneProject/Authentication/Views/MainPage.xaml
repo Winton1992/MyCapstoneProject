@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage 
+    BackgroundColor="#FFA733"
+    xmlns:local="clr-namespace: CapstoneProject.Authentication.Views"
+    xmlns:local2="clr-namespace: CapstoneProject.ProfitModels.Views"
+    xmlns:local3="clr-namespace: CapstoneProject.ShoppingCart.Views"
+    xmlns:local4="clr-namespace: CapstoneProject"
+    xmlns:local5="clr-namespace: CapstoneProject.SearchRadar.Views"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.MainPage">
+
+    <local:HomePage Title="HomePage" Icon="Home.png"/>
+
+    <!--<local2:ProfitModelPage Title="ProfitModelPage" Icon="profitmodel_32.png"/>-->
+
+    <local5:SearchRadarPage Title="SearchRadarPage" Icon="Marker-32.png"/>
+    
+    <local3:ShoppingCartPage Title="ShoppingCartPage" Icon="ShoppingCart.png"/>
+
+    <local:MePage Title="MePage" Icon="Me.png"/>
+    
+</TabbedPage>
+
+
+
+<!--<local4:MapNavigationPage Title="Map" Icon="clock.png"/>-->
+
+<!--<local4:MapNavigationPage Title="Map" Icon="clock.png"/>-->

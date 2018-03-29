@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    Title="ProductPage"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.ProductsPage">
+
+    <StackLayout>
+       <StackLayout Orientation="Horizontal">
+            <Button Text="Add" Clicked="OnAdd"/>
+       </StackLayout>
+
+       <SearchBar Placeholder="Search..."  />
+
+       <ListView x:Name="productsListView" ItemSelected="OnProductSelected" HasUnevenRows="true"  SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            
+                             <Image Source="{Binding ImageUrl}"/>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+
+                                <Label Text="{Binding ProductName}" />
+
+                                <Label Text="{Binding Price}" TextColor="Gray"/>
+                                
+                             </StackLayout>
+                              
+                              <Button Text="+" Clicked="Add_To_ShoppingCart" HorizontalOptions="EndAndExpand" BorderColor="Silver" CommandParameter="{Binding .}"/>
+                             
+                        </StackLayout>
+                            <ViewCell.ContextActions>
+                            
+                                 <MenuItem Text="AddToNotify"/>
+                            
+                                 <MenuItem Text="Delete" IsDestructive="true" Clicked="OnDeleteProduct" CommandParameter="{Binding .}"/>
+
+                        </ViewCell.ContextActions>
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+    <ContentPage.ToolbarItems>
+              <ToolbarItem Text="Logout" Clicked="OnLogoutButtonClicked" />
+    </ContentPage.ToolbarItems>
+
+    
+</ContentPage>

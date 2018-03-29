@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Admin.Views.AdminPage">
+	<ContentPage.Content >
+        <ScrollView>
+            <StackLayout VerticalOptions="StartAndExpand">
+
+                <Label Text="ProductID" TextColor="Black"/>
+                <Entry x:Name="ProductID" Placeholder="ProductID" />
+
+                <Label Text="ProductName" TextColor="Black"/>
+                <Entry x:Name="ProductName" Placeholder="ProductName" />
+            
+                <Label Text="Price" TextColor="Black"/>
+                <Entry x:Name="Price" Placeholder="Price" Keyboard="Numeric"/>
+
+                <Label Text="Brand" TextColor="Black"/>
+                <Entry x:Name="Brand" Placeholder="Brand" />
+
+                <Label Text="Category" TextColor="Black"/>
+                <Entry x:Name="Category" Placeholder="Category" />
+            
+                <Label Text="ImageUrl" TextColor="Black"/>
+                <Entry x:Name="ImageUrl" Placeholder="ImageUrl" />
+
+                <Label Text="BigImageUrl" TextColor="Black"/>
+                <Entry x:Name="BigImageUrl" Placeholder="BigImageUrl" />
+
+                <Label Text="RetailerID" TextColor="Black"/>
+                <Entry x:Name="RetailerID" Placeholder="RetailerID" />
+
+                <Label Text="RetailerName" TextColor="Black"/>
+                <Entry x:Name="Retailer_Name" Placeholder="RetailerName" />
+            
+                <Button Text="Add" Clicked="AddProductClicked" FontSize="20" TextColor="Black" CommandParameter="{Binding .}"/>
+
+                <Label x:Name="messageLabel" />
+            
+            </StackLayout>
+          </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

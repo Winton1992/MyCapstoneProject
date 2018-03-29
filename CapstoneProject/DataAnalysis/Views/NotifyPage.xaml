@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.DataAnalysis.Views.NotifyPage">
+     <StackLayout>
+       <SearchBar Placeholder="Search..."  />
+
+       <ListView x:Name="notifyListView" HasUnevenRows="true"  SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            <Image Source="{Binding ImageUrl}"/>
+                         
+                            <StackLayout HorizontalOptions="StartAndExpand">
+
+                                <Label Text="{Binding ProductName}" />
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" >
+                                  <Label Text="$" TextColor="Gray"/>    
+                                  <Label Text="{Binding Current_Price}" TextColor="Gray"/>
+                                  <Label Text="in" TextColor="Gray"/>
+                                  <Label Text="{Binding Retailer_Name}" TextColor="Gray"/>                       
+                                </StackLayout>
+
+                             </StackLayout>
+
+                              <!--<Label x:Name="special" Text="{Binding Special}" TextColor="Red" VerticalOptions="Center"/>-->
+                             <Image x:Name="special" Source="{Binding Special}" />
+                        </StackLayout>
+
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Delete" IsDestructive="true" Clicked="OnDeleteNotifyProduct" CommandParameter="{Binding .}"/>
+                        </ViewCell.ContextActions>
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

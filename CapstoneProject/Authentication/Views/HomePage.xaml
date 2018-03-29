@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.HomePage"
+    >
+    <StackLayout>
+       <SearchBar Placeholder="Search..." TextChanged="OnSearchTextChanged" x:Name="searchBar" />
+
+       <!-- <StackLayout x:Name="main" IsVisible="false" >
+           <Button x:Name="btn1" Text="clickme"></Button>
+       </StackLayout>-->
+
+        <Grid x:Name="main" IsVisible="false" 
+              BackgroundColor="White"
+              RowSpacing="5"
+              >
+              <StackLayout Grid.Row="0" Grid.ColumnSpan="2" HorizontalOptions="FillAndExpand" >
+                 <Button x:Name="btn1" Clicked="History_button" Image="color-money-bag-100" Text=" Transaction History        " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+              </StackLayout>
+
+              <StackLayout Grid.Row="1" Grid.ColumnSpan="2" >
+                 <Button x:Name="btn2" Clicked="Notify_Clicked" Image="icons8-sale" Text=" Notifications                  " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+              </StackLayout>
+
+              <StackLayout Grid.Row="2" Grid.ColumnSpan="2" >
+                 <Button x:Name="btn3" Clicked="Retailer_Clicked" Image="icons8-small-business" Text=" Retailers                      " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+              </StackLayout>
+
+              <StackLayout Grid.Row="3" Grid.ColumnSpan="2" >
+                 <Button x:Name="btn4" Clicked="Performance_Clicked" Image="icons8-medal-first-place" Text=" Performance               " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+              </StackLayout>
+
+              <StackLayout Grid.Row="4" Grid.ColumnSpan="2" >
+                 <Button x:Name="btn5" Clicked="Model_Clicked" Image="icons8-coins2" Text=" Profit Model                " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+              </StackLayout>
+            
+
+        </Grid>
+        
+        <ListView x:Name="HomepageListView" 
+                  GroupDisplayBinding="{Binding ProductName}"
+                  ItemSelected="OnProductSelected" 
+                  HasUnevenRows="true"  
+                  SeparatorVisibility="None"
+                 >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            
+                            <Image Source="{Binding ImageUrl}"/>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+
+                                <Label Text="{Binding ProductName}" />
+
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" >
+                                   <Label Text="{Binding Price}" TextColor="Gray"/>
+                                   <Label Text="in" TextColor="Gray"/>
+                                   <Label Text="{Binding Retailer_Name}" TextColor="Gray"/>
+                                </StackLayout>
+                                
+                            </StackLayout>
+                              
+                            <Button Text="+" Clicked="Add_To_ShoppingCart" HorizontalOptions="EndAndExpand"  CommandParameter="{Binding .}"/>
+                             
+                        </StackLayout>
+                        
+                    <ViewCell.ContextActions>
+                             <MenuItem Text="AddToNotify" Clicked="AddToNotify" CommandParameter="{Binding .}"/>      
+                    </ViewCell.ContextActions>
+                        
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+      
+    </StackLayout>
+</ContentPage>

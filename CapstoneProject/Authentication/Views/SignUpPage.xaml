@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    BackgroundColor="#FFA733"  Padding="0,80,0,0"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.SignUpPage">
+
+     <ContentPage.Content >
+            <StackLayout VerticalOptions="StartAndExpand">
+            
+                <Label Text="Register"  FontSize="40" TextColor="White" HorizontalOptions="Center"/>
+            
+                <Label Text="Username" TextColor="White"/>
+                <Entry x:Name="usernameEntry" Placeholder="username" />
+            
+                <Label Text="Password" TextColor="White"/>
+                <Entry x:Name="passwordEntry" Placeholder="password" IsPassword="true" />
+            
+                <Label Text="Email address" TextColor="White"/>
+                <Entry x:Name="emailEntry" />
+            
+                <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" FontSize="20" TextColor="White" CommandParameter="{Binding .}"/>
+
+                <Label x:Name="messageLabel" />
+            
+            </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

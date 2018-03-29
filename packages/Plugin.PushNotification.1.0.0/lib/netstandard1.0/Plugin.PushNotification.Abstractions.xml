@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.PushNotification.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.PushNotification.Abstractions.IPushNotification">
+            <summary>
+            Interface for PushNotification
+            </summary>
+        </member>
+        <member name="P:Plugin.PushNotification.Abstractions.IPushNotification.NotificationHandler">
+            <summary>
+            Notification handler to receive, customize notification feedback and provide user actions
+            </summary>
+        </member>
+        <member name="E:Plugin.PushNotification.Abstractions.IPushNotification.OnTokenRefresh">
+            <summary>
+            Event triggered when token is refreshed
+            </summary>
+        </member>
+        <member name="E:Plugin.PushNotification.Abstractions.IPushNotification.OnNotificationOpened">
+            <summary>
+            Event triggered when a notification is opened
+            </summary>
+        </member>
+        <member name="E:Plugin.PushNotification.Abstractions.IPushNotification.OnNotificationReceived">
+            <summary>
+            Event triggered when a notification is received
+            </summary>
+        </member>
+        <member name="E:Plugin.PushNotification.Abstractions.IPushNotification.OnNotificationError">
+            <summary>
+            Event triggered when there's an error
+            </summary>
+        </member>
+        <member name="P:Plugin.PushNotification.Abstractions.IPushNotification.Token">
+            <summary>
+            Push notification token
+            </summary>
+        </member>
+        <member name="M:Plugin.PushNotification.Abstractions.IPushNotification.GetUserNotificationCategories">
+            <summary>
+            Get all user notification categories
+            </summary>
+        </member>
+    </members>
+</doc>

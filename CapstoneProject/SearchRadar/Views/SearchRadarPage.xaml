@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:CapstoneProject;assembly=CapstoneProject"
+    x:Class="CapstoneProject.SearchRadar.Views.SearchRadarPage">
+	<ContentPage.Content>
+      <Grid> 
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>      
+            
+        <local:CustomMap2 x:Name="customMap" MapType="Street" Grid.Row="0" />
+
+        <StackLayout  HorizontalOptions="CenterAndExpand"  Grid.Row="1" >
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Label Text="Open SearchRedar: "  VerticalOptions="Center"/>  
+                    <Switch x:Name="switch_open" IsToggled="false" Toggled="OpenLocation" />
+                </StackLayout>
+
+               <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" >
+                  <Stepper x:Name="stepper" Increment="0.5" Minimum="0.5" Maximum="4" />
+                  <Label Text=" "/>
+                  <Label Text="Search Radius: " />
+                  <Label x:Name="getRadius" Text="{Binding Source={x:Reference stepper}, Path=Value}"/>
+                  <Label Text="km"  />
+               </StackLayout>
+        </StackLayout>
+
+     <ListView x:Name="SearchRadarListView" 
+                  HasUnevenRows="true"  
+                  SeparatorVisibility="None" 
+                  ItemSelected="OnStoreSelected"
+                  Grid.Row="2"
+                  GroupDisplayBinding="{Binding .}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2"  >                          
+                             <Image  Source="{Binding Retailer_Logo}"/>
+
+                             <Label Text="{Binding Retailer_Name}" VerticalOptions="Center" />
+
+                        <StackLayout HorizontalOptions="EndAndExpand" Orientation="Horizontal">   
+                             <Label x:Name="label_distance" Text="Distance: " VerticalOptions="Center" />    
+                             <Label x:Name="label_Kilometers"  VerticalOptions="Center" Text="{Binding Distance}" /> 
+                             <Label Text="km" VerticalOptions="Center"/>
+                            </StackLayout> 
+                                
+                        </StackLayout>      
+                            
+                            <ViewCell.ContextActions>
+                                 <MenuItem Text="Remove" Clicked="Remove" CommandParameter="{Binding .}"/>
+                           </ViewCell.ContextActions>
+                </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>  
+    </Grid>
+	</ContentPage.Content>
+</ContentPage>

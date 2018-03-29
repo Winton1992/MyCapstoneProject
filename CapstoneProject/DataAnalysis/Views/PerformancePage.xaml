@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CapstoneProject.DataAnalysis.Views.PerformancePage">
+   <StackLayout>
+    <Label Text="Best Seller" FontSize="31" HorizontalOptions="CenterAndExpand"/>
+    
+    <ListView x:Name="PerformanceListView" 
+                  HasUnevenRows="true"  
+                  SeparatorVisibility="None">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            
+                            <Image Source="{Binding ImageUrl}"/>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+                                   <Label Text="{Binding ProductName}"/>
+                            </StackLayout>
+
+                            <Label Text="{Binding count}"/>
+                                
+                        </StackLayout>
+
+                          <ViewCell.ContextActions>
+                             <MenuItem Text="Remove" Clicked="Remove" CommandParameter="{Binding .}"/>      
+                         </ViewCell.ContextActions>
+                        
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="40" >
+                  <Label Text="Total Profit:" />
+                  <Label x:Name="Total_Profit_P"  TextColor="Blue" />
+        </StackLayout>
+        
+       </StackLayout>
+</ContentPage>

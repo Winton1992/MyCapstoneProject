@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="CapstoneProject.ProfitModels.Views.ProfitModelPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="New Profit Model" Clicked="OnAddProfitModel" />
+    </ContentPage.ToolbarItems>
+
+    <ListView x:Name="profitmodelsListView" ItemSelected="OnProfitModelSelected"   SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+             <ViewCell  >
+               <StackLayout Orientation="Horizontal" Padding="2">
+                          
+                            <StackLayout HorizontalOptions="StartAndExpand">
+
+                                <Label Text="{Binding ProfitModel_Name}" />
+
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" >
+                                <Label Text="Exchange Rate:" TextColor="Gray"/>
+                                <Label Text="{Binding ExchangeRate}" TextColor="Gray"/>
+                                <Label Text="Profit:" TextColor="Gray"/>
+                                <Label Text="{Binding Profit}" TextColor="Gray"/>
+                                </StackLayout>
+
+                             </StackLayout>
+                            
+                 </StackLayout>
+                       <ViewCell.ContextActions>
+                           <MenuItem Text="Delete" IsDestructive="true" Clicked="OnDeleteProfitModel" CommandParameter="{Binding .}" />
+                      </ViewCell.ContextActions>
+              </ViewCell > 
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

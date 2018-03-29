@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    BackgroundColor="#FFA733"
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.LoginPage">
+
+     <StackLayout Padding="0,200,0,0" BackgroundColor="#FFA733" VerticalOptions="FillAndExpand">
+        <Label Text="Log in with Your Admin Account" TextColor="White" HorizontalOptions="Center" FontSize="22" Margin="20"/>
+
+        <StackLayout HorizontalOptions="FillAndExpand" Spacing="0">
+           <Entry x:Name="usernameEntry" Placeholder="Username"/>
+           <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="true"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Spacing="30">
+           <Button
+              x:Name="buttonCancel"
+              Text="Cancel"
+              TextColor="White"
+              BackgroundColor="#FFA733"
+              BorderRadius="15"
+              BorderColor="White"
+              BorderWidth="2"
+              HeightRequest="40"
+              WidthRequest="150"/>
+          <Button
+              x:Name="buttonLogin"
+              Text="Log in"
+              TextColor="#FFA733"
+              BackgroundColor="White"
+              BorderRadius="15"
+              HeightRequest="40"
+              WidthRequest="150" 
+              Clicked="OnLoginButtonClicked"/>  
+        </StackLayout>
+        
+        <StackLayout Spacing="0">
+         <Button
+               x:Name="buttonForgot"
+               Text="Forgot your password?"
+               TextColor="White"
+               BackgroundColor="Transparent"/>
+         <Button
+               x:Name="buttonRegister"
+               Text="Sign Up"
+               TextColor="White"
+               BackgroundColor="Transparent"
+               Clicked="OnSignUpButtonClicked"/>
+        </StackLayout>
+        
+        <Label x:Name="messageLabel" />
+        
+     </StackLayout>
+</ContentPage>

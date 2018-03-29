@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.MePage">
+        <StackLayout> 
+              <Label  Text="MyPage" HorizontalOptions="Center" FontSize="21"/>
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+               <Image Source="icons8-shopping-cart.png"/>
+               <Button Text="History" HorizontalOptions="StartAndExpand" Clicked="History_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+               <Image Source="icons8-notification.png"/>
+               <Button Text="NotifyList" HorizontalOptions="StartAndExpand" Clicked="Notify_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+              <StackLayout  Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="icons8-password.png"/>
+                <Button Text="Account Setting" HorizontalOptions="StartAndExpand" Clicked="Setting_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="icons8-user.png"/>
+                <Button Text="User Profile" HorizontalOptions="StartAndExpand" Clicked="Profile_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="icons8-feedback.png"/>
+                <Button Text="Feedback" HorizontalOptions="StartAndExpand" Clicked="Feedback_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+               <!--<StackLayout  Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="icons8-feedback.png"/>
+                <Button Text="AdminProfitModelPage" HorizontalOptions="StartAndExpand" Clicked="ProfiModel_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>-->
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Image Source="icons8-heart.png"/>
+                <Button Text="Favorite" HorizontalOptions="StartAndExpand" Clicked="Favorite_Clicked" FontSize="18" TextColor="Blue" />
+              </StackLayout>
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                 <Image Source="icons8-vip.png"/>
+                 <Button Text="Essential Client" Clicked="vip_clicked" HorizontalOptions="StartAndExpand" FontSize="18" TextColor="Blue"/>
+              </StackLayout>
+
+              <!--<StackLayout>
+                 <Button Text="MapNavigationPage" Clicked="MapNavigationPage_Clicked" HorizontalOptions="StartAndExpand" FontSize="18" TextColor="Blue"/>
+              </StackLayout>
+
+             <StackLayout>
+                 <Button Text="RetailerPage" Clicked="RetailerPage_Clicked" HorizontalOptions="StartAndExpand" FontSize="18" TextColor="Blue"/>
+             </StackLayout>-->
+
+        </StackLayout>
+</ContentPage>

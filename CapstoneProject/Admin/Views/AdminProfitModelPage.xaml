@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CapstoneProject.Admin.Views.AdminProfitModelPage">
+	<StackLayout>
+     
+       <SearchBar Placeholder="Search..." />
+
+       <ListView x:Name="adminProfitModelListView" HasUnevenRows="true"  SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                    
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+
+                                <Label Text="{Binding ProfitModel_Name}" />
+
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" >
+                                <Label Text="{Binding ExchangeRate}" TextColor="Gray"/>
+                                <Label Text="in" TextColor="Gray"/>
+                                <Label Text="{Binding Profit}" TextColor="Gray"/>
+                                </StackLayout>
+                                
+                             </StackLayout>
+                              
+                                <Button Text="Remove"  Clicked="Remove_From_ProfitModel" HorizontalOptions="EndAndExpand" CommandParameter="{Binding .}"/>
+                             
+                        </StackLayout>
+                        
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+     </StackLayout>
+</ContentPage>

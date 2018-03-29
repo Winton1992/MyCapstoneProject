@@ -1,0 +1,65 @@
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/mscorlib.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Threading.Tasks.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Threading.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ObjectModel.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Globalization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.ReaderWriter.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Linq.Expressions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.IO.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Dynamic.Runtime.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Linq.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll
+/Users/liweijie/Projects/CapstoneProject /CapstoneProject/bin/Debug/CapstoneProject.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Plugin.PushNotification.1.1.5/lib/Xamarin.iOS10/Plugin.PushNotification.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.Maps.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Resources.ResourceManager.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xam.Plugin.Geolocator.4.1.3/lib/Xamarin.iOS10/Plugin.Geolocator.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLite.Net.Async-PCL.3.1.1/lib/portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1/SQLite.Net.Async.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLite.Net.Core-PCL.3.1.1/lib/portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1/SQLite.Net.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLiteNetExtensions.2.0.0/lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/SQLiteNetExtensions.dll
+/Users/liweijie/Projects/CapstoneProject /packages/sqlite-net-pcl.1.4.118/lib/netstandard1.1/SQLite-net.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Collections.Concurrent.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLitePCLRaw.core.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLitePCLRaw.provider.sqlite3.ios_unified.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlDocument.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.XDocument.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Primitives.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.TypeConverter.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Formatters.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.Primitives.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Microsoft.CSharp.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Plugin.PushNotification.1.1.5/lib/Xamarin.iOS10/Plugin.PushNotification.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xam.Plugin.Geolocator.4.1.3/lib/Xamarin.iOS10/Plugin.Geolocator.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Plugin.Permissions.2.1.0/lib/Xamarin.iOS10/Plugin.Permissions.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Plugin.Permissions.2.1.0/lib/Xamarin.iOS10/Plugin.Permissions.dll
+/Users/liweijie/Projects/CapstoneProject /packages/Xamarin.Forms.Maps.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
+/Users/liweijie/Projects/CapstoneProject /packages/SQLite.Net-PCL.3.1.1/lib/Xamarin.iOS10/SQLite.Net.Platform.XamarinIOS.Unified.dll

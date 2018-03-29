@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Plugin.PushNotification/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.PushNotification/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Plugin.PushNotification.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/liweijie/Projects/CapstoneProject /Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

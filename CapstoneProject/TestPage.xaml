@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CapstoneProject.TestPage">
+	 <StackLayout Orientation="Vertical">
+           <Button Text= "Get GPS Position" Clicked="Test_Clicked"/>
+           <Label x:Name="Label1" />
+           <Label x:Name="Label2" />
+     </StackLayout>
+</ContentPage>

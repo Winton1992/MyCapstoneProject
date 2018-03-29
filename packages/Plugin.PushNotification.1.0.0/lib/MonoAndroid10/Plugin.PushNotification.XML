@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.PushNotification</name>
+    </assembly>
+    <members>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.TitleKey">
+            <summary>
+            Title
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.TextKey">
+            <summary>
+            Text
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.SubtitleKey">
+            <summary>
+            Subtitle
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.MessageKey">
+            <summary>
+            Message
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.BodyKey">
+            <summary>
+            Message
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.AlertKey">
+            <summary>
+            Alert
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.IdKey">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.TagKey">
+            <summary>
+            Tag
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.ActionKey">
+            <summary>
+            Action Click
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.CategoryKey">
+            <summary>
+            Category
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.SilentKey">
+            <summary>
+            Silent
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.ActionNotificationIdKey">
+            <summary>
+            ActionNotificationId
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.ActionNotificationTagKey">
+            <summary>
+            ActionNotificationTag
+            </summary>
+        </member>
+        <member name="F:Plugin.PushNotification.DefaultPushNotificationHandler.ActionIdentifierKey">
+            <summary>
+            ActionIdentifeir
+            </summary>
+        </member>
+        <member name="M:Plugin.PushNotification.PNIIDService.OnTokenRefresh">
+            Called if InstanceID token is updated. This may occur if the security of
+            the previous token had been compromised. Note that this is called when the InstanceID token
+            is initially generated so this is where you would retrieve the token.
+        </member>
+        <member name="T:Plugin.PushNotification.PushNotificationManager">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+        <member name="T:Plugin.PushNotification.CrossPushNotification">
+            <summary>
+            Cross platform PushNotification implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.PushNotification.CrossPushNotification.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

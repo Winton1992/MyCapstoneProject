@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CapstoneProject.DataAnalysis.Views.HistoryPage">
+    <StackLayout>
+    <ListView x:Name="historyListView" HasUnevenRows="true"  SeparatorVisibility="None" IsPullToRefreshEnabled="true" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                  <ViewCell >
+                        <StackLayout Orientation="Horizontal" Padding="2"> 
+                             <Image Source="money_55.png"/>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" >
+                            
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" Padding="2">
+                                    <Label Text="Transaction ID:" />
+                                    <Label Text="{Binding History_ID}" TextColor="Gray" />
+                                    <Label Text="  " />
+                                    <Label Text="Sold:" />
+                                    <Label Text="{Binding product_bought}" TextColor="Gray"/>
+                                </StackLayout>
+                            
+                                <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" Padding="2">
+                                    <Label Text="Profit:" />
+                                    <Label Text="{Binding profit}" TextColor="Gray"/>
+                                    <Label Text="  " />
+                                    <Label Text="{Binding Transaction_Time}" TextColor="Gray"/>
+                                </StackLayout>
+                                
+                             </StackLayout>   
+                        </StackLayout>             
+                  </ViewCell>   
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="40" >
+                  <Label Text="Total Profit:" />
+                  <Label x:Name="Total_Profit"  TextColor="Blue" />
+        </StackLayout>
+ </StackLayout>                            
+</ContentPage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="CapstoneProject.Authentication.Views.ProductDetailPage">
+
+        <StackLayout> 
+               <Label  Text="{Binding ProductName}" HorizontalOptions="Center" FontSize="21"/>
+               <Image Source="{Binding BigImageUrl}" />
+
+              <StackLayout Orientation="Horizontal" HorizontalOptions="Center"> 
+               <Label Text="Brand:" HorizontalOptions="Center" FontSize="21" TextColor="Purple"/>
+               <Label Text="{Binding Brand}" HorizontalOptions="Center" FontSize="21"/>
+              </StackLayout>
+
+             <StackLayout Orientation="Horizontal" HorizontalOptions="Center"> 
+               <Label Text="Category:" HorizontalOptions="Center" FontSize="21" TextColor="Purple"/>
+               <Label Text="{Binding Category}" HorizontalOptions="Center" FontSize="21"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center"> 
+               <Label Text="Retailer:" HorizontalOptions="Center" FontSize="21" TextColor="Purple"/>
+               <Label Text="{Binding Retailer_Name}" HorizontalOptions="Center" FontSize="21"/>
+            </StackLayout>
+          
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center"> 
+               <Label Text="Price:" HorizontalOptions="Center" FontSize="21" TextColor="Purple"/>
+               <Label Text="{Binding Price}" HorizontalOptions="Center" FontSize="21"/>
+               <Label Text="$" HorizontalOptions="Center" FontSize="21"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center"> 
+               <Button Text="Location" Clicked="ViewLocation" HorizontalOptions="CenterAndExpand" CommandParameter="{Binding .}"/>
+            </StackLayout>
+        
+        </StackLayout>
+    
+</ContentPage>

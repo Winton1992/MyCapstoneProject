@@ -1,0 +1,282 @@
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csprojResolveAssemblyReference.cache
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csproj.CoreCompileInputs.cache
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock.png
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock@2x.png
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock@3x.png
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home.png
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home@2x.png
+/Users/liweijie/Projects/CapstoneProject/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home@3x.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/CapstoneProject.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock@2x.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/clock@3x.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home@2x.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Home@3x.png
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csprojResolveAssemblyReference.cache
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csproj.CoreCompileInputs.cache
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject 2/iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/CapstoneProject.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Async.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensions.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensionsAsync.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/CapstoneProject.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csprojResolveAssemblyReference.cache
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.csproj.CoreCompileInputs.cache
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.exe
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/CapstoneProject.iOS.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.PushNotification.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.PushNotification.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.PushNotification.Abstractions.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.PushNotification.Abstractions.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.PushNotification.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensions.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/SQLiteNetExtensionsAsync.pdb
+/Users/liweijie/Projects/CapstoneProject /iOS/bin/iPhoneSimulator/Debug/Azure.Mobile.dll
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/actool/_PartialAppManifest.items
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/clock.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/clock@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/clock@3x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Home.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Home@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Home@3x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/ShoppingCart@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/ShoppingCart@3x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/ShoppingCart.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/plus.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/plus@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/plus@3x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/monkey.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/pin.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/xamarin.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/coles_logo.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/kiwibuy_logo.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/kiwibuy_logo_big.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Me.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Me@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Me@3x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/money_55.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Notification.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/History.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/profitmodel_32.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/profitmodel_35.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/money_22.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/pin1.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/NearMe@2x.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/NearMe.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/Marker-32.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/money-bag-100.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/color-money-bag-100.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/100notification.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-sale.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-small-business.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-medal-first-place.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-coins.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-coins2.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-map-pinpoint.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-user.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-home.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-shopping-cart.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-password.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-notification.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-feedback.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-heart.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/icons8-vip.png
+/Users/liweijie/Projects/CapstoneProject /iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.2/optimized/

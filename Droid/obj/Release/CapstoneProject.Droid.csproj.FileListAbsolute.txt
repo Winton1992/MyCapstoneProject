@@ -1,0 +1,2 @@
+/Users/liweijie/Projects/CapstoneProject /Droid/obj/Release/CapstoneProject.Droid.csprojResolveAssemblyReference.cache
+/Users/liweijie/Projects/CapstoneProject /Droid/obj/Release/CapstoneProject.Droid.csproj.CoreCompileInputs.cache

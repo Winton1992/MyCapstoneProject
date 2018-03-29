@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="CapstoneProject.ProfitModels.Views.ProfitModelDetailPage">
+
+    <TableView Intent="Form" x:Name="ProfitModelListView" >
+        <TableRoot>
+            <TableSection Title="ProfitModel Name">
+                <EntryCell x:Name="ProfitModel_Name" Label="ProfitModel_Name" Text="{Binding ProfitModel_Name}"/>
+            </TableSection>
+            
+            <TableSection Title="ExchangeRate">
+                <EntryCell x:Name="ExchangeRate" Label="ExchangeRate" Text="{Binding ExchangeRate}" />
+            </TableSection>
+           
+            <TableSection Title="Profit">
+                <EntryCell x:Name="Profit" Label="Profit" Text="{Binding Profit}" />
+            </TableSection>
+            
+            <TableSection>
+                <ViewCell>
+                    <Button Text="Save" Clicked="OnSave" />
+                </ViewCell>
+            </TableSection>
+
+            <TableSection>
+                <ViewCell>
+                    <Button Text="Activate" Clicked="Activate_Clicked" CommandParameter="{Binding .}"/>
+                </ViewCell>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+</ContentPage>
