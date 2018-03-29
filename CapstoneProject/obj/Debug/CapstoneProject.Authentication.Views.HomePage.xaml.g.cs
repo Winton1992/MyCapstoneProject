@@ -11,7 +11,7 @@
 namespace CapstoneProject.Authentication.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/liweijie/Projects/CapstoneProject /CapstoneProject/Authentication/Views/Ho" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/liweijie/Desktop/MyCapstoneProject/CapstoneProject/Authentication/Views/Ho" +
         "mePage.xaml")]
     public partial class HomePage : global::Xamarin.Forms.ContentPage {
         

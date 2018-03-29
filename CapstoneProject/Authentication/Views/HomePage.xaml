@@ -24,15 +24,15 @@
               </StackLayout>
 
               <StackLayout Grid.Row="2" Grid.ColumnSpan="2" >
-                 <Button x:Name="btn3" Clicked="Retailer_Clicked" Image="icons8-small-business" Text=" Retailers                      " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+                 <Button x:Name="btn3" Clicked="Retailer_Clicked" Image="icons8-small-business" Text=" Retailers                          " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
               </StackLayout>
 
               <StackLayout Grid.Row="3" Grid.ColumnSpan="2" >
-                 <Button x:Name="btn4" Clicked="Performance_Clicked" Image="icons8-medal-first-place" Text=" Performance               " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+                 <Button x:Name="btn4" Clicked="Performance_Clicked" Image="icons8-medal-first-place" Text=" Performance                  " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
               </StackLayout>
 
               <StackLayout Grid.Row="4" Grid.ColumnSpan="2" >
-                 <Button x:Name="btn5" Clicked="Model_Clicked" Image="icons8-coins2" Text=" Profit Model                " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
+                 <Button x:Name="btn5" Clicked="Model_Clicked" Image="icons8-coins2" Text=" Profit Model                   " FontSize="31" BackgroundColor="#FFA733" HorizontalOptions="StartAndExpand"></Button>
               </StackLayout>
             
 
